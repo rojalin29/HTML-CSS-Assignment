@@ -1,0 +1,170 @@
+.desktop {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(255, 213, 206) 43.7%, rgb(254, 242, 175) 100%);
+    width: 2135px;
+    height: 1200px;
+    position: relative;
+  }
+  
+  .desktop .navbar {
+    position: absolute;
+    width: 2135px;
+    height: 86px;
+    top: -1px;
+    left: 0;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 2135px;
+    height: 85px;
+    top: 1px;
+    left: 0;
+    background-color: #ff7170;
+  }
+  
+  .desktop .text-wrapper {
+    left: 243px;
+    position: absolute;
+    top: 0;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-2 {
+    left: 494px;
+    position: absolute;
+    top: 0;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    left: 746px;
+    position: absolute;
+    top: 0;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    left: 978px;
+    position: absolute;
+    top: 0;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-5 {
+    left: 1319px;
+    position: absolute;
+    top: 0;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 1693px;
+    font-family: "Inknut Antiqua-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .menu-bar {
+    position: absolute;
+    width: 61px;
+    height: 53px;
+    top: 17px;
+    left: 1983px;
+    object-fit: cover;
+  }
+  
+  .desktop .pexels-robin-stickel {
+    position: absolute;
+    width: 1023px;
+    height: 1115px;
+    top: 85px;
+    left: 1112px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    height: 100px;
+    top: 284px;
+    left: 118px;
+    font-family: "Lexend Exa-Bold", Helvetica;
+    font-weight: 700;
+    color: #1e1e1e;
+    font-size: 80px;
+    letter-spacing: 5.6px;
+    line-height: normal;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 761px;
+    top: 510px;
+    left: 130px;
+    font-family: "Red Hat Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 1.68px;
+    line-height: normal;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 338px;
+    height: 73px;
+    top: 826px;
+    left: 130px;
+    background-color: #ff7170;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 20px;
+    left: 118px;
+    font-family: "Red Hat Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 1.68px;
+    line-height: normal;
+  }
+  
